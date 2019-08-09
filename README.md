@@ -1,5 +1,5 @@
 # PushTest
-APN sample code
+
 This demo is for local and remote push handle. <br>
 1- request approval for Push Notification.<br>
 2- manual trigger local notification.<br>
