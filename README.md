@@ -3,7 +3,7 @@
 This demo is for local and remote push handle. <br>
 1- request approval for Push Notification.<br>
 2- manual trigger local notification.<br>
-3- remote server trigger ntification.<br>
+3- remote server trigger notification.<br>
 4- custom category to show extra buttons and activities.<br>
 5- embedded img.<br>
 5- use the taget template for push service.<br>
